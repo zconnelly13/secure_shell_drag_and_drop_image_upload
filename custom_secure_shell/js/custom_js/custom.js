@@ -30,7 +30,7 @@ function uploadToImgur(image) {
     formData.append("image",image);
 
     var xhr = new XMLHttpRequest();
-    xhr.open("POST", "https://api.imgur.com/3/image"); // Boooom!
+    xhr.open("POST", "https://api.imgur.com/3/image");
     xhr.setRequestHeader("Authorization","Client-ID 5ff142545dd4022");
     xhr.onload = function() {
         var response = JSON.parse(xhr.responseText);
