@@ -5,6 +5,6 @@ This is a customized version of the Secure Shell chrome extension found here (ht
 
 It allows you to drag-and-drop images into the terminal.
 
-It will upload the image to imgur, wget it, and rename it to [image_name]_[width]_[height].png
+It will upload the image to imgur, wget it, and rename it to [image\_name]\_[width]_[height].png
 
 ^_^
