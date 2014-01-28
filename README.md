@@ -1,5 +1,5 @@
-secure_shell_drag_and_drop_image_upload
-=======================================
+Secure Shell Drag and Drop Image Uploader
+=========================================
 
 This is a customized version of the Secure Shell chrome extension found here (https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en)
 
