@@ -11,6 +11,10 @@ Follow the instructions here http://developer.chrome.com/extensions/getstarted.h
 
 Simply drag-and-drop any number of images into the terminal and this extension will upload them to imgur and then run the unix commands to wget the image and rename it to [image name]\_[width]\_[height].png
 
+###Hack
+
+All the custom code is in custom\_secure\_shell/js/custom\_js/custom.js so this is probably where you should dig around
+
 ###Screenshots
 
 ![](http://i.imgur.com/IUU47gI.png)
